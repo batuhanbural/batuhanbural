@@ -37,12 +37,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=000000)&nbsp;\
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=000000)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=349F70)&nbsp;
-![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm&logoColor=2493AF)&nbsp;
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm&logoColor=2493AF)&nbsp;\
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm&logoColor=6B57FF)&nbsp;
 ![Rider](https://img.shields.io/badge/-Rider-05122A?style=flat&logo=rider&logoColor=DD1265)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio&logoColor=ffffff)\
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio&logoColor=ffffff)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Fusion360](https://img.shields.io/badge/-Fusion360-05122A?style=flat&logo=autodesk)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberrypi&logoColor=CF335A)&nbsp;
