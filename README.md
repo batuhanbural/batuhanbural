@@ -7,7 +7,7 @@
 🎓 &nbsp;I'm currently high school student at Göynük Science High School.\
 🌱 &nbsp;I'm on track for learning more about Computer Vision, Artifical Intelligence, and Web Design.\
 ✍️ &nbsp;In my free time, I play guitar and write blogs as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at xxxxx@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at ibatuhanbrl@gmail.com! I'll try to respond as soon as I can.
 
 [comment]: <> (📄 &nbsp;&nbsp;Please have a look at my [Résumé]&#40;https://www.adityavsingh.com/resume.html&#41; for more details about me. I'm open to feedback and suggestions!)
 
