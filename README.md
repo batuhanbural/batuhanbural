@@ -11,9 +11,11 @@
 
 [comment]: <> (📄 &nbsp;&nbsp;Please have a look at my [Résumé]&#40;https://www.adityavsingh.com/resume.html&#41; for more details about me. I'm open to feedback and suggestions!)
 
+<br><br>
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<br>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -24,7 +26,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&logoColor=000000)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=CSS3&logoColor=777BB4)&nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=0095D5)\
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=0095D5)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=150458)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -32,14 +34,14 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity&logoColor=000000)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm&logoColor=349F70)&nbsp;
-![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm&logoColor=2493AF)&nbsp;\
+![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=webstorm&logoColor=2493AF)&nbsp;
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-05122A?style=flat&logo=phpstorm&logoColor=6B57FF)&nbsp;
 ![Rider](https://img.shields.io/badge/-Rider-05122A?style=flat&logo=rider&logoColor=DD1265)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio&logoColor=ffffff)&nbsp;
