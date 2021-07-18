@@ -11,7 +11,7 @@
 
 [comment]: <> (📄 &nbsp;&nbsp;Please have a look at my [Résumé]&#40;https://www.adityavsingh.com/resume.html&#41; for more details about me. I'm open to feedback and suggestions!)
 
-<br><br>
+<br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
