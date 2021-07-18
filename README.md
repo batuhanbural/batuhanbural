@@ -66,7 +66,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.batuhanbural.github.io"><img src="https://img.shields.io/badge/-batuhanbural.github.io-3423A6?style=flat&logo=microsoft-edge&logoColor=white"/></a>
+<a href="https://batuhanbural.github.io/main.html"><img src="https://img.shields.io/badge/-batuhanbural.github.io-3423A6?style=flat&logo=microsoft-edge&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/batuhan-bural-b49746207/"><img src="https://img.shields.io/badge/-İlker%20Batuhan%20BURAL-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ibatuhanbrl@gmail.com"><img src="https://img.shields.io/badge/-ibatuhanbrl@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/ibatuhanbrl/"><img src="https://img.shields.io/badge/-@ibatuhanbrl-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
