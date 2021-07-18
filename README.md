@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 &nbsp;Hey there! I'm Batuhan</h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
